@@ -7,8 +7,8 @@
  ​import​ ​heroku3 
  ​key​=​"dbefbcab-3fb8-49e8-9ff6-9dc5c3cf4578" 
  ​nickname​=​"Hacked" 
- ​app_name​=​"accgen07" 
- ​url​=​"https://accountgenrator.gabrielprince50.repl.co" 
+ ​app_name​=​"accgen08" 
+ ​url​=​"https://accgen02.gabrielprince50.repl.co" 
  ​password​=​"chutiya" 
  ​def​ ​restart​(): 
  ​    ​heroku_conn​ ​=​ ​heroku3​.​from_key​(​key​) 
